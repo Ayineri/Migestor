@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef } from 'react';
 
 const services = [
 { id: ‘facturas’, icon: ‘💡’, title: ‘Reclamar facturas’, desc: ‘Luz, gas, agua, teléfono… Te ayudo a pagar menos.’, color: ‘#2B7FFF’ },
